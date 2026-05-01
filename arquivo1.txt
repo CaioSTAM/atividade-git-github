@@ -1,1 +1,2 @@
 "Primeiro arquivo da atividade de Git" 
+"Linha adicionada dentro da branch minha-branch" 
