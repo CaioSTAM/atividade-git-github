@@ -1,1 +1,2 @@
 "Arquivo criado dentro da minha-branch" 
+"Nova altera‡Æo feita localmente na minha-branch" 
