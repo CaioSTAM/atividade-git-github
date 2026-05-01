@@ -1,1 +1,2 @@
 "Segundo arquivo da atividade de Git" 
+Linha adicionada diretamente na main pelo GitHub.
